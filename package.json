@@ -1,4 +1,5 @@
 {
+  "homepage": "https://Bhavyashree03.github.io/counter-page",
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +10,7 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "start": "react-script start",
-    
+    "predeploy": "npm run build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
