@@ -1,0 +1,262 @@
+
+
+/*-------------------------->Counter.css*/
+.counter-container{
+    text-align: center;
+    font-family:Arial, sans-serif;
+    justify-content: center;
+    padding-top:100px;
+
+}
+.counter-display{
+    font-size:10em;
+    margin-top:0;
+    margin-bottom:50px;
+    cursor: pointer;
+}
+.counter-button{
+    width:150px;
+    height:50px;
+    font-size:1.5em;
+    font-weight:bold;
+    margin:10px 5px;
+    background-color:hsl(196, 100%, 58%);
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+
+
+}
+.counter-button:hover{
+    background-color:hsl(196, 100%, 48%)
+}
+.div-clear{
+    margin-top:25px;
+
+
+}
+.clear{
+
+    font-family:arial,sans-serif;
+    width:150px;
+    height:50px;
+    font-size:1.5em;
+    font-weight:bold;
+    margin:0px 5px;
+    background-color:hsl(196, 100%, 58%);
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+
+
+}
+.toggle{
+
+    font-family:arial,sans-serif;
+    width:auto;
+    height:auto;
+    font-size:1.5em;
+    font-weight:bold;
+
+    background-color:hsl(196, 100%, 58%);
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    padding:10px;
+    margin: 20px auto;
+    display:flex;
+    justify-content:center;
+    
+
+
+
+}
+
+
+
+/*
+---------------------------->ColorPicker.css
+body{
+    font-family:arial,sans-serif;
+
+}
+.color-picker-container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+h1{
+    margin:50px;
+    font-size:3rem;
+
+}
+.color-display{
+    width:300px;
+    height:300px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    border:5px solidhsl(0,0%,80%);
+    border-radius:25px;
+    margin-bottom: 25px;
+    transition:0.25s ease;
+}
+.color-display p{
+    color:hsl(0,0%,20%);
+    font-size:2rem;
+    text-align:center;
+
+}
+label{
+    font-size:1.5rem;
+    font-weight:bold;
+    margin-bottom:10px;
+}
+input[type="color"]{
+    width:75px;
+    height:50px;
+    padding:5px;
+    border-radius:10px;
+    border:3px solid hsl(0,0%,80%)
+}
+*/
+
+/*
+------------------->EcommerceWebsite.css
+.div-container{
+    
+    text-align:center;
+    padding:50px;
+    padding-left:auto;
+    padding-right:auto;
+    margin:auto;
+    margin-top:100px;
+    font-size: 2.5rem;
+    height:auto;
+
+}
+.div-container header{
+    font-family:arial,sans-serif;
+    padding-bottom:10px;
+
+}
+.div-container p{
+    font-family:arial,sans-serif;
+    
+}
+.item-container{
+    display:inline-block;
+    border:1px solid hsl(0, 1%, 32%);
+    padding:25px;
+    margin:10px;
+    height:auto;
+    max-width:200px;
+    text-align:center;
+    font-family:arial,sans-serif;
+
+}
+.cart-button{
+    background-color:white;
+    border:1px solid rgb(62, 60, 60);
+    padding:5px;
+    border-radius:5px;
+    cursor: pointer;
+    font-size:0.8rem;
+    font-family:arial,sans-serif;
+}
+.cart-button:hover{
+    background-color:whitesmoke;
+}
+
+.reset-button{
+    padding:8px;
+    padding-left:15px;
+    padding-right:15px;
+
+    margin:20px;
+    background-color:rgb(128, 204, 243);
+    font-size:1.2rem;
+    border:none;
+    border:1px solid hsl(0, 1%, 29%);
+    border-radius:5px;
+
+
+}
+.reset-button:hover{
+    opacity:0.8;
+    transition: 0.01s;
+}
+.image{
+    width:200px;
+    height:200px;
+
+}
+.item{
+
+    font-size:1.2rem;
+    font-family:arial,sans-serif;
+    margin-bottom: 0px;
+
+}
+.desc{
+    margin:0px;
+    font-size:1rem;
+    font-family:arial,sans-serif;
+
+
+}
+.cost{
+    margin:0px;
+    font-size:1rem;
+    font-family:arial,sans-serif;
+
+}
+.cart-quantity{
+    font-size:20px;
+}
+*/
+/*
+-----------------------------DigitalClock.css
+body{
+    background-image:url(assets/Background.jpg);
+    background-repeat: no-repeat; 
+    background-position:center;
+    background-size: cover; 
+    background-attachment: fixed;
+    margin:0;
+    display:flex;
+    justify-content: center;
+    min-height:100vh;
+    align-items:center;
+
+
+
+
+}
+.clock-container{
+    backdrop-filter:blur(5px);
+    width:100vw;
+    padding:10px 0;
+
+
+
+}
+.clock{
+    font-size:6rem;
+    font-weight:bold;
+    font-family:monospace,sans-serif;
+    text-shadow:3px 3px 5px hsla(0,0%,0%,0.75);
+    text-align:center;
+
+
+
+
+}
+*/
+
+
+
+
